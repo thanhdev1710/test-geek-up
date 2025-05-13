@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Next.js Project – Bài Test Thực Tập
 
-## Getting Started
+Đây là một project được khởi tạo bằng [Next.js](https://nextjs.org), sử dụng `create-next-app`. Dự án phục vụ cho bài test thực tập, có cấu trúc rõ ràng và dễ mở rộng.
 
-First, run the development server:
+---
+
+## 🚀 Bắt đầu
+
+### 1. Cài đặt thư viện
+
+Trước tiên, bạn cần cài đặt các thư viện cần thiết bằng cách chạy lệnh:
+
+```bash
+npm install
+```
+
+### 2. Chạy dự án ở chế độ phát triển
+
+Sau khi cài đặt xong, chạy dự án với lệnh:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Mở trình duyệt và truy cập: [http://localhost:3000](http://localhost:3000)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+> Trang web sẽ tự động cập nhật khi bạn chỉnh sửa các file trong dự án.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Chỉnh sửa nội dung
 
-To learn more about Next.js, take a look at the following resources:
+Bạn có thể bắt đầu chỉnh sửa giao diện tại file:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+src/app/page.tsx
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📁 Cấu trúc thư mục
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `src/app/` – Chứa mã nguồn giao diện của ứng dụng.
+- `docs/` – Thư mục chứa các **tài liệu liên quan đến bài test thực tập** như:
+  - Phân tích yêu cầu
+  - Thiết kế hệ thống
+  - Mô tả chức năng
+  - Ghi chú kỹ thuật
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 📚 Tài nguyên học Next.js
+
+- [📘 Tài liệu chính thức Next.js](https://nextjs.org/docs)
+- [🎓 Học Next.js qua hướng dẫn tương tác](https://nextjs.org/learn)
+- [📂 GitHub Next.js](https://github.com/vercel/next.js)
+
+---
+
+## 🚀 Triển khai với Vercel
+
+Bạn có thể triển khai ứng dụng dễ dàng trên nền tảng [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) – nền tảng chính thức cho Next.js.
+
+- Tài liệu triển khai: [Next.js Deployment Docs](https://nextjs.org/docs/app/building-your-application/deploying)
+
+---
+
+📌 _Mọi đóng góp hoặc phản hồi đều được chào đón nếu bạn đang xem xét cải thiện dự án trong tương lai._
+# test-geek-up
