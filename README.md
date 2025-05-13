@@ -1,3 +1,4 @@
+
 # 🌐 Next.js Project – Bài Test Thực Tập
 
 Đây là một project được khởi tạo bằng [Next.js](https://nextjs.org), sử dụng `create-next-app`. Dự án phục vụ cho bài test thực tập, có cấu trúc rõ ràng và dễ mở rộng.
@@ -62,8 +63,10 @@ src/app/page.tsx
 Bạn có thể triển khai ứng dụng dễ dàng trên nền tảng [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) – nền tảng chính thức cho Next.js.
 
 - Tài liệu triển khai: [Next.js Deployment Docs](https://nextjs.org/docs/app/building-your-application/deploying)
+- 🔗 **Link demo dự án đã triển khai**: [https://test-geek-up.vercel.app/albums](https://test-geek-up.vercel.app/albums)
 
 ---
 
 📌 _Mọi đóng góp hoặc phản hồi đều được chào đón nếu bạn đang xem xét cải thiện dự án trong tương lai._
+
 # test-geek-up
